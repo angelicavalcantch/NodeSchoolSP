@@ -14,3 +14,6 @@ There were mentors to assist whenever needed and the group could help each other
 As a JavaScript learner I (as well as those participants)  intend as much as I can to be with other people who not only know more but also have some tips and feedback about my/our progress. 
 
 This is the community strength. =) 
+
+
+https://nodeschool.io/pt-br/#workshopper-list 
